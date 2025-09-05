@@ -1,4 +1,4 @@
-## Prompt to use to get project started
+## Prompt to use to organize multiple agents
 
 ### Generate detailed checklist
 
