@@ -9,7 +9,7 @@ Please based on xxx file to create a detailed implemtation plan and todo list an
 ### Execute, Stop and Report
 
 ```
-Please execute the next step, when you finish please stop and report back to me about what have you done and how could human validate the steps. Always mark the step as completed in the checklist file when you finished the work. 
+Please execute the next phase, when you finish please stop and report back to me about what have you done and how could human validate the steps. Always mark the step as completed in the checklist file when you finished the work. 
 ```
 
 
