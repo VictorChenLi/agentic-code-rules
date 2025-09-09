@@ -5,7 +5,7 @@
 ```
 Please based on xxx file to create a detailed implemtation plan and todo list and saved it to the file named xxx. the steps in the list should be small and easy to validate by human.
 ```
-
+  
 ### Execute, Stop and Report
 
 ```
