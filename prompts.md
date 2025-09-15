@@ -12,10 +12,10 @@ Please based on xxx file to create a detailed implemtation plan and todo list an
 Please execute the next phase, when you finish please stop and report back to me about what have you done and how could human validate the steps. Always mark the step as completed in the checklist file when you finished the work. 
 ```
 
-### Self-test and Report
+### Playwriht Test and Report
 ```
-Please use api endpoint to test function_to_test if the simple plot is reflected in the final prompt by checking the log
-Make sure you validate goal_of_feature
+Please use playwright to test function_to_test by checking the log and UI
+Make sure the system goal_of_feature
 At end show me a summary report here to see if there are any issue or bugs need be fixed
 ```
 
