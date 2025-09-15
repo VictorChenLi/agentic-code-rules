@@ -14,8 +14,8 @@ Please execute the next phase, when you finish please stop and report back to me
 
 ### Playwriht Test and Report
 ```
-Please use playwright to test function_to_test by checking the log and UI
-Make sure the system goal_of_feature
+Please use playwright to test the system by checking the log and UI for feature_to_test
+Make sure the system able to goal_of_feature
 At end show me a summary report here to see if there are any issue or bugs need be fixed
 ```
 
