@@ -14,7 +14,9 @@ Please execute the next phase, when you finish please stop and report back to me
 
 ### Self-test and Report
 ```
-Please use api endpoint to test function_to_test if the simple plot is reflected in the final prompt by checking the logs, and make sure you test at least 20 turns to see memory compact and plot updates multiple times, at end show me a summary report here to see if there are any issue or bugs need be fixed
+Please use api endpoint to test function_to_test if the simple plot is reflected in the final prompt by checking the log
+Make sure you validate goal_of_feature
+At end show me a summary report here to see if there are any issue or bugs need be fixed
 ```
 
 ### Use this between big chunk of steps
