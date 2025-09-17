@@ -19,6 +19,16 @@ Make sure the system able to goal_of_feature
 At end show me a summary report here to see if there are any issue or bugs need be fixed
 ```
 
+### Chat Project Playwriht Test and Report
+```
+Please use Playwright to test the system by checking the log and UI, use the account in claude.md
+Send at least 20 turns with nezha, check and make sure the system able to
+1. compact the memory and summarize correctly
+2. Tier A model able to move the plot forward after each compact
+3. Tier B model response not repeating
+At end show me a summary report here to see if there are any issue or bugs need be fixed
+```
+
 ### Use this between big chunk of steps
 
 ```
