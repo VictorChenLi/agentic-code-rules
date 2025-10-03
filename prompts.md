@@ -6,10 +6,10 @@
 Please based on xxx file to create a detailed implemtation plan and todo list and saved it to the file named xxx. the steps in the list should be small and easy to validate by human.
 ```
   
-### Execute, Stop and Report
+### Execute, Stop and Report (start new session for one feature at a time, unless the memory is less than 50%)
 
 ```
-Please execute the next phase, when you finish please stop and report back to me about what have you done and how could human validate the steps. Always mark the step as completed in the checklist file when you finished the work. 
+Read the _contextfiles_ and _planfile_ first, and please execute the next phase, when you finish please stop and report back to me about what have you done and how could human validate the steps. Always mark the step as completed in the checklist file when you finished the work. 
 ```
 
 ### Playwriht Test and Report
