@@ -12,7 +12,7 @@ Please based on xxx file to create a detailed implemtation plan and todo list an
 Read the _contextfiles_ and _planfile_ first, and please execute the next phase, when you finish please stop and report back to me about what have you done and how could human validate the steps. Always mark the step as completed in the checklist file when you finished the work. 
 ```
 
-### Playwriht Test and Report
+### Playwright Test and Report
 ```
 Please use playwright to test the system by checking the log and UI
 Make sure the system able to goal_of_feature
