@@ -6,7 +6,5 @@ Read the plan files and Key documents below first, and please execute the next p
 
 
 ## Key Documents:
-- Each component folder has it's own logic.md and Readme.md please read it if you want to understand that component
-- backend/api_schema.yaml has all the backend api endpoint
-- shared/context.md has shared context info
-- Readme.md at root folder
+- /context/logic.md
+- _other_doc_
