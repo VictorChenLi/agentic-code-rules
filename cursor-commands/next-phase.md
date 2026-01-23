@@ -2,7 +2,7 @@ Read the plan files and Key documents below first, and please execute the next p
 
 ## On Completed
 - Always mark the step as completed in the plan's checklist
-- Update each components' logic.md file accordingly
+- Update each components' logic.md file accordingly, if not exist create one under /context folder at root level
 
 
 ## Key Documents:
