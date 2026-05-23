@@ -16,7 +16,7 @@ Use this as a template for headings, checklist format, and section depth:
 <One-paragraph scope summary>
 
 **Instructions for developers:**
-- Check off each item `[ ]` → `[x]` as you complete it.
+- Check off each item `[ ]` → `[x]` as you complete it also add ✅.
 - Each checklist item links to its detailed task section below (use anchor links).
 
 ---
